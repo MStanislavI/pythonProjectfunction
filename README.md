@@ -21,7 +21,7 @@
 # Инструкция по установке
 Чтобы скачать репозиторий:
 
-`git clone https://github.com/MStanislavI/pythonProjectfunction/tree/feature/homework_10_1 `
+`git clone https://github.com/MStanislavI/pythonProjectfunction.git `
 
 Затем вам необходимо установить основные зависимости для запуска проекта в вашей системе:
 
